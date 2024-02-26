@@ -158,7 +158,7 @@ hr {
     }
 
     nav li a {
-        width: 20px;
+        width: 200px;
         padding: 10px;
         margin: 10px;
     }
@@ -178,7 +178,7 @@ hr {
     nav {
         background-color:white;
         padding: 20px 0;
-        text-align: center;
+        text-align:center;
     }
     
     nav ul {
@@ -188,19 +188,20 @@ hr {
     
     nav li {
         display:inline-block;
+        width: 20px;
     }
     
     nav li a {
         color: darkseagreen;
         margin-inline: 60px;
         text-decoration: none;
-        font-size: 20px;
+        font-size: 18px;
         font-weight: bold;
         padding: 10px;
         margin: 30px;
         border: 5px solid darkseagreen;
-        width: 33.33%;
         border-radius: 10px;
+        width: 130px;
     
     }
     nav li a:hover {
